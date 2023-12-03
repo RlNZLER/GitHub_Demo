@@ -1,3 +1,3 @@
 # GitHub_Demo
 
-This is a discpription for the readme file.
+This is a description for the readme file.
